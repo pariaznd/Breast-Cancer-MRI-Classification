@@ -6,6 +6,7 @@ This repository contains our TDT4265 mini-project for breast cancer classificati
 Our final submission uses an ensemble of:
 - 3D ResNet18 on volumetric MRI inputs
 - 2D ResNet50 on Maximum Intensity Projection (MIP) inputs
+- Sweep models (DenseNet121, DenseNet169, efficintnet_B4) and their training
 
 We use:
 - modality-specific preprocessing
