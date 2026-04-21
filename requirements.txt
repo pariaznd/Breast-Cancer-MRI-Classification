@@ -1,8 +1,10 @@
-pandas
-numpy
 torch
 torchvision
-nibabel
-tqdm
 monai
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+nibabel
 scipy
