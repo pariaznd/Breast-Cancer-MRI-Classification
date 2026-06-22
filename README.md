@@ -11,6 +11,9 @@ Breast cancer classification from MRI is challenging because the data are:
 
 Our project investigates both **3D volumetric models** and **2D MIP-based models**, and uses **logit ensembling** to improve generalization on unseen centers.
 
+##Data Availability
+The dataset used in this project belongs to the ODELIA 2025 challenge and is not included in this repository due to access and privacy restrictions.
+
 ## Method
 
 Our final submission combines:
